@@ -15,3 +15,6 @@ filter.lfs.process=git-lfs filter-process
 filter.lfs.required=true
 user.name=Mari
 user.email=aallen221@student.ccc.edu
+
+Hi drunxed! You've successfully authenticated, but GitHub does not provide shell access.
+
